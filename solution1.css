@@ -19,12 +19,12 @@ h1 {
 
 
 body {
-   background-color: #D2691E
+   background-color: rgb(196, 192, 192);
 }
 
 
 
-}
+
 
 
 
@@ -72,21 +72,21 @@ section {
 
     position: relative;
 
-    overflow: auto;
+    
 
 }
 
 
 
-#virus {
+#lor {
 
     border: 1px solid black;
 
     text-align: center;
 
-    width: 30%;
+    width: 33%;
 
-    margin-left: 70%;
+    margin-left: 67%;
 
     font-family: Georgia,sans-serif;
 
@@ -107,62 +107,6 @@ section {
 
 
 
-#deep {
-
-    border: 1px solid black;
-
-    text-align: center;
-
-    width: 30%;
-
-    margin-left: 70%;
-
-    font-family: Georgia,sans-serif;
-
-    font-weight: bold;
-
-    font-size: 125%;
-
-    margin-bottom: 0;
-
-    margin-top: 0;
-
-    padding: 5px;
-
-    background-color: black;
-    color: #FFFAF0;
-
-}
-
-
-
-#dr {
-
-    border: 1px solid black;
-
-    text-align: center;
-
-    width: 30%;
-
-    margin-left: 70%;
-
-    font-family: Georgia,sans-serif;
-
-    font-weight: bold;
-
-    font-size: 125%;
-
-    margin-bottom: 0;
-
-    margin-top: 0;
-
-    background-color: black;
-
-    color: #FFFAF0;
-
-    padding: 5px;
-
-}
 
 
 
